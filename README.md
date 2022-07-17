@@ -17,4 +17,4 @@ In addition, we will also focus on creating tools to automate the exploration of
 
 ## Data
 
-Data for this project is available at the following adress: [openfoodfacts.org](https://fr.openfoodfacts.org/data)
+Data for this project is available at the following address: [openfoodfacts.org](https://fr.openfoodfacts.org/data)
